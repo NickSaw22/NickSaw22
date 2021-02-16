@@ -1,4 +1,4 @@
-<img src="https://images.app.goo.gl/8KBDqjmrFKs6HYwv8">
+<img src="https://vertassets.blob.core.windows.net/image/f0face00/f0face00-9905-437a-9599-ff898a3909e7/hacker_reg_new.jpg">
 
 <h2> Hey there! I'm Nikhil.</h2>
 
