@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at Bharati College of Engineering Mumbai University.
 - 💼 &nbsp; Currently in Third Year working on final year project you can find my previous projects here.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Data Analysis and Machine Learning.
+- 🌱 &nbsp; Learning more about Web Devlopment, Open Source, Data Analysis and Machine Learning.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
