@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at Bharati College of Engineering Mumbai University.
-- 💼 &nbsp; Currently in Final Year working on final year project you can find my previous projects here.
+- 💼 &nbsp; I'm currently working on my last year project, you can see my previous work here.
 - 🌱 &nbsp; Learning more about Open Source, Software development and DSA.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
